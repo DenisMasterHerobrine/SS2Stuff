@@ -5,6 +5,7 @@
 <div align="center"> Различные моды/ресурспаки или любое другое добро для СабШилда 2. </div>
 
 <div align="center"> <h1> Что здесь есть? </h1> </div>
+В данный момент здесь ничего нет, следите за репозиторием. Здесь что-то и появится через время.
 
 Скачать **SubShield Panoramas** для первого сезона можно [здесь.](https://github.com/DenisMasterHerobrine/SubShieldPanoramas/releases)
 
